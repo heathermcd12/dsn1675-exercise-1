@@ -25,7 +25,49 @@ body {
   padding: 0;
 }
 
+
 img {
   display: block;
   width: 100%;
 }
+
+.photo {
+    margin:0;
+    
+}
+    
+
+.billboard {
+    position: relative;
+    display;align-content:center;
+}
+
+figcaption {
+    color:grey;
+}
+
+h2 {
+    color: grey;
+}
+
+.box1 {
+    overflow:hidden;
+    display:inline-block;
+    position:absolute;
+}
+
+.box2 {
+    overflow:hidden;
+    display:inline-block;
+    position:absolute;
+}
+
+.box3 {
+    overflow:hidden;
+    display:inline-block;
+    position:absolute;
+}
+
+
+
+    
